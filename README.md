@@ -1,4 +1,4 @@
-## AI and Robotics Mini Projects
+# AI and Robotics Mini Projects
 By Saira Ali
 
 This repository contains Python projects demonstrating interactive programming,logic-driven decisions, and basic AI concepts. These projects provide hands-on experience in AI and Robotics.
