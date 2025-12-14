@@ -24,8 +24,8 @@ Detects user mood (Happy, Sad, Neutral) from text using basic NLP techniques.
 
 **Outputs:**  
 ![Happy Mood](Mood_Detector/mood_happy.jpg)  
-![Sad Mood](Mood_Detector/mood_sad.jpg)  
-![Neutral Mood](Mood_Detector/mood_neutral.jpg)
+![Neutral Mood](Mood_Detector/mood_neutral.jpg)  
+![Sad Mood](Mood_Detector/mood_sad.jpg)
 
 ## Skills & Relevance
 - Python programming, loops, and conditionals  
