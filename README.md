@@ -1,7 +1,7 @@
 # AI and Robotics Mini Projects
 By Saira Ali
 
-This repository contains Python projects demonstrating interactive programming,logic-driven decisions, and basic AI concepts. These projects provide hands-on experience in AI and Robotics.
+This repository contains Python projects demonstrating interactive programming, logic-driven decisions, and basic AI concepts. These projects provide hands-on experience in AI and Robotics.
 
 ## Projects
 
@@ -24,8 +24,8 @@ Detects user mood (Happy, Sad, Neutral) from text using basic NLP techniques.
 
 **Outputs:**  
 ![Happy Mood](Mood_Detector/mood_happy.jpg)  
-![Neutral Mood](Mood_Detector/mood_neutral.jpg)  
-![Sad Mood](Mood_Detector/mood_sad.jpg)
+![Sad Mood](Mood_Detector/mood_sad.jpg)  
+![Neutral Mood](Mood_Detector/mood_neutral.jpg)
 
 ## Skills & Relevance
 - Python programming, loops, and conditionals  
